@@ -1,0 +1,4 @@
+{
+  "check_interval_seconds": 30,
+  "force_resend_seconds": 1800
+}

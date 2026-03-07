@@ -1,0 +1,5 @@
+conda activate xiaomi
+C:\Users\Administrator\Desktop\xiaomi\Xiaomi-cloud-tokens-extractor-master
+    python .\token_extractor.py  读取空调ip以及token
+C:\Users\Administrator\Desktop\xiaomi
+    miiocli airconditioningcompanionmcn02 --ip 192.168.2.237 --token 10b6a125cb391898649a66e2c944d1b0 status  查看空调状态

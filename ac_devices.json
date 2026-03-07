@@ -1,0 +1,18 @@
+[
+  {
+    "name": "空调A",
+    "monitor_ips": ["172.18.39.55", "172.18.39.56"],
+    "ping_mode": "any",
+    "ac_ip": "192.168.1.149",
+    "token": "replace_with_token_a",
+    "command": "airconditioningcompanionmcn02"
+  },
+  {
+    "name": "空调B",
+    "monitor_ips": ["172.18.39.60"],
+    "ping_mode": "all",
+    "ac_ip": "192.168.2.237",
+    "token": "replace_with_token_b",
+    "command": "cuco.plug.cp2d"
+  }
+]
